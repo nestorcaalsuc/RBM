@@ -30,7 +30,7 @@
     L.Control.Measure = L.Control.extend({
         options: {
             position: "topright",
-            title: "Medir áreas",
+            title: "Medir",
             collapsed: true,
             color: "#FF0080",
         },
